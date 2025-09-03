@@ -10,7 +10,7 @@ Este projeto tem como objetivo exercitar conceitos de lógica de programação u
 - [Como Testar](#como-testar)
 - [Observações](#observações)
 - [Contribuição](#contribuição)
-- [Licença](#licença)
+
 
 ## Descrição
 
@@ -64,6 +64,7 @@ desafio-logica-02/
 ## Contribuição
 
 Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias, correções ou novas funções matemáticas.
+
 
 
 
