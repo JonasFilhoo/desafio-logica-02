@@ -50,7 +50,7 @@ desafio-logica-02/
 3. **Execute os testes**  
    Para rodar todos os testes automatizados:
    ```sh
-   npm test
+   npx mocha
    ```
 
    Os resultados dos testes aparecerão no terminal, indicando se as funções estão funcionando corretamente.
@@ -64,5 +64,6 @@ desafio-logica-02/
 ## Contribuição
 
 Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias, correções ou novas funções matemáticas.
+
 
 
