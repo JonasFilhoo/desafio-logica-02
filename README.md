@@ -65,6 +65,4 @@ desafio-logica-02/
 
 Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias, correções ou novas funções matemáticas.
 
-## Licença
 
-Este projeto está licenciado sob
